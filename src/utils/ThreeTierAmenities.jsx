@@ -4,7 +4,7 @@ import panoramaImg from '../assets/panorama.webp';
 import patioImg from '../assets/patio.webp';
 import LogoPatio from '../assets/logoP.webp';
 import LogoAzura from '../assets/logoA.webp';
-import LogoPanorama from '../assets/logoPanok.webp';
+import LogoPanorama from '../assets/LogoPanok.webp';
 
 import mandir from '../assets/mandir.png';
 import fishing from '../assets/fishing.png';
